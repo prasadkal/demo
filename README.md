@@ -1,12 +1,14 @@
-# demo
-this is my first repo where I will see how to create nice profile
+# My Repo for latest projects at INSAID
 
-- point 1
-- pont 2
+## Here is the list of all projects
 
----
-___
+- [Finance](https://github.com/v-rao/demo/tree/master/finance-project "Finance")
+- Accounts
+- Banking
+- Energy
 
-```
-print('hello wprld')
-```
+| Finance project | [![Fin](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Fin")](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Fin")  |
+| :------------: | :------------: |
+| [![Accounts](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")  | Accounts  project |
+| Banking  project | [![Banking](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")  |
+| [![Energy](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Energy")](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Energy")  | Energy  project |
